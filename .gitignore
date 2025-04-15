@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-.gitignore.bak
-hola.txt.bak
 prompts.txt
-prompts.txt.bak
-.idea/
-=======
 *.bak
->>>>>>> desarrollo
+.idea/
